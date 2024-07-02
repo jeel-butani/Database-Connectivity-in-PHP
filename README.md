@@ -41,10 +41,5 @@ To use MongoDB with PHP, you need to install the MongoDB PHP driver using Compos
 ```bash
 composer require mongodb/mongodb
 ```
+[For More details read the Blog](https://medium.com/@butanijeel1/database-connectivity-in-php-3c6956f0e76f)
 
-## Examples and Implementation
-For detailed code examples and implementation instructions, please visit the following links on GitHub:
-
-- **Connecting to MySQL using MySQLi (Object-Oriented and Procedural)**: MySQLi Examples
-- **Connecting to MySQL using PDO**: PDO Example
-- **Connecting to MongoDB**: MongoDB Example
