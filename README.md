@@ -1,7 +1,7 @@
 # Database-Connectivity-in-PHP  
 
 This repository contains the implementation examples for connecting PHP to MySQL and MongoDB databases, as outlined in the blog "PHP Database Connectivity: MySQLi, PDO, and MongoDB".
-
+[For More details read the Blog(DBMS)](https://github.com/jeel-butani/DBMS-An-In-Depth-Guide)
 ## Overview
 
 PHP is a popular server-side scripting language designed specifically for web development. It is widely used for creating dynamic and interactive websites. One of the key features of PHP is its ability to interact with databases, making it an essential tool for web developers.
