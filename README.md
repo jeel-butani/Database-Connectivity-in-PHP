@@ -7,7 +7,7 @@ This repository contains the implementation examples for connecting PHP to MySQL
 PHP is a popular server-side scripting language designed specifically for web development. It is widely used for creating dynamic and interactive websites. One of the key features of PHP is its ability to interact with databases, making it an essential tool for web developers.
 
 ### Connecting to MySQL Databases
-
+[For More details read the Blog(Sql)](https://github.com/venishaparmar/Sql-vs-NoSql)
 PHP provides two main ways to connect to a MySQL database:
 1. **MySQLi (MySQL Improved)**: An enhancement of the original MySQL extension, offering both procedural and object-oriented interfaces.
 2. **PDO (PHP Data Objects)**: A database access layer providing a uniform method of access to multiple databases, supporting MySQL, PostgreSQL, SQLite, and others.
@@ -32,7 +32,7 @@ PHP provides two main ways to connect to a MySQL database:
   - You prefer object-oriented programming and the advanced features provided by PDO, such as better exception handling.
 
 ### Connecting to NoSQL Databases: MongoDB
-
+[For More details read the Blog(NoSql)](https://github.com/venishaparmar/Sql-vs-NoSql)
 While MySQL is a relational database, MongoDB is a NoSQL database that stores data in a flexible, JSON-like format. PHP provides support for MongoDB through the MongoDB PHP library.
 
 #### Installing MongoDB PHP Library
